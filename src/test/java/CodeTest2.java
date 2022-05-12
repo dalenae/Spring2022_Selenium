@@ -40,7 +40,7 @@ public class CodeTest2 {
             return set; }
 
 
-            //Question 4 Create method to find smallest positive 
+            //Question 4 Create method to find smallest positive
             static int findSmallestPositive(int arr[], int size)   {
                   int i;
         for (i = 0; i < size; i++) { int x = Math.abs(arr[i]);
